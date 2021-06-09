@@ -5,3 +5,14 @@
         margin-bottom: 50px;
     }
 }
+
+/* Untuk Smartphone */
+@media (max-width: 670px) {
+    .lesson {
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
+}
