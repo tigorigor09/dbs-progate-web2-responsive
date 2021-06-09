@@ -8,6 +8,20 @@
 
 /* Untuk Smartphone */
 @media (max-width: 670px) {
+    
+    .top-wrapper {
+        text-align: left;
+        padding-top: 130px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .facebook {
+        margin-bottom: 10px;
+    }
+
     .lesson {
         width: 100%;
     }
