@@ -18,6 +18,18 @@
 /* Untuk Smartphone */
 @media (max-width: 670px) {
     
+    .header-right {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .menu-icon:hover {
+        cursor: pointer;
+    }
+
     .top-wrapper {
         text-align: left;
         padding-top: 130px;
